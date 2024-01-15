@@ -99,7 +99,7 @@ h6 {
 .banner {
 	background: #ff6060;
 	background: linear-gradient(to left, #7a60ff, #cd9ffa);
-	padding:100px 0px;
+	padding:50px 50px;
 	position:relative;
 }
 .banner::before {
